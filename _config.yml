@@ -21,7 +21,7 @@ repository               : "saaz742/saaz742.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   name             : "Sara Azarnoush"
   pronouns         : "she/her"  
   bio              : "CE Graduated From Sharif University"
